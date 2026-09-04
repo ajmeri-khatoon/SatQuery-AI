@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 SATQUERY AI
 
 Smart India Hackathon 2026 Project
@@ -61,3 +62,7 @@ All six components are developed in parallel.
 Each component must have a clear input/output interface so everything can be integrated later.
 
 Do not commit API keys, passwords, or huge datasets.
+=======
+# SATQUERY-AI
+SATQUERY AI -- A multimodel satelite 
+>>>>>>> 62b0700b92087d6b6a811cb9810acd191da2215b
