@@ -1,0 +1,17 @@
+# Core deep learning and model tooling
+torch>=2.6.0
+transformers>=4.57.0
+accelerate>=1.0.0
+safetensors>=0.4.0
+bitsandbytes>=0.45.0
+
+# Parameter-efficient fine-tuning
+peft>=0.15.0
+
+# Dataset and image handling
+datasets>=3.0.0
+pillow>=10.0.0
+gradio>=5.0.0
+
+# Development and testing
+pytest>=8.0.0
